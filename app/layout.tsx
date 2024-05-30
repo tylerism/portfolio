@@ -17,8 +17,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div className="navigation">
-        <nav className="navbar">
+        {/* <div className="navigation">
+          <nav className="navbar">
             <div className="nav-logo">Pugh Power</div>
             <ul className="nav-links">
                 <li><a href="/">Home</a></li>
@@ -26,7 +26,7 @@ export default function RootLayout({
                 <li><a href="/contact">Contact</a></li>
             </ul>
           </nav>
-        </div>
+        </div> */}
         {children}
        </body>
     </html>
