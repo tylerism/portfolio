@@ -18,9 +18,9 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <div className="navigation">
-        <nav class="navbar">
-            <div class="nav-logo">Pugh Power</div>
-            <ul class="nav-links">
+        <nav className="navbar">
+            <div className="nav-logo">Pugh Power</div>
+            <ul className="nav-links">
                 <li><a href="/">Home</a></li>
                 <li><a href="/resume">Resume</a></li>
                 <li><a href="/contact">Contact</a></li>
