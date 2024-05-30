@@ -18,7 +18,7 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: #040b26;
+  background: #13132e;
   background-size: cover;
 }
 
@@ -88,5 +88,5 @@ body {
   width: 500px;
   height: 500px;
   margin: 0 auto;
-  background: url(https://i.imgur.com/Bub9zuq.png);
+  background: url(https://i.imgur.com/g1ibqtr.png);
 }
