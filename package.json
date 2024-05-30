@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "refresh": "git pull && npm run build && pm2 reload nestjs-app"
+    "refresh": "git pull && npm run build && pm2 reload nextjs-app"
   },
   "dependencies": {
     "react": "^18",
